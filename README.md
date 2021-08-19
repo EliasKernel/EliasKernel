@@ -2,6 +2,7 @@
 #### Self-taught programmer
 ![Self-taught programmer](https://raw.githubusercontent.com/EliasKernel/EliasKernel/main/City.gif)
 
+I enjoy programming things
 
 Skills: Python
 
